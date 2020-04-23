@@ -1,0 +1,17 @@
+/* specifieke stijlregels voor 404-pagina */
+body {
+    background-image: url(../afbeeldingen/foutpagina404.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    vertical-align: middle;
+}
+
+@media screen and (min-width: 800px){
+    body {
+        background-image: url(../afbeeldingen/foutpagina404.jpg);
+        background-position: center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+}

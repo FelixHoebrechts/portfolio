@@ -1,0 +1,60 @@
+a {
+    color: white;
+}
+a:hover{
+    color: #c4dde4;
+    text-decoration: none;
+}
+.background-hello{
+    height: 317px;
+    background-image: url(../afbeeldingen/Hallo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #c4dde4;
+}
+
+h1, h2, h3, h4{
+    color:#14514f;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+header{
+    background-color: #14514f;
+    color: #fff;
+    padding: 25px;
+}
+
+footer{
+    background-color: #14514f;
+    color: #fff;
+    padding: 25px;
+}
+
+.padding{
+    padding-top: 50px;
+}
+
+.linkstyle{
+    color:#14514f;
+    background-color: #fff;
+    
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px 20px;
+    border: 1.5px solid #14514f;
+    border-radius: 5px;
+    transition-duration: 1s;
+}
+
+.linkstyle:hover{
+    background-color: #14514f;
+    color: #c4dde4;
+    
+}
+
+.tab{
+    display: inline-block;
+    margin-left: 50px;
+}

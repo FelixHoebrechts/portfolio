@@ -1,0 +1,15 @@
+/* stijlregels die voor beide errorpagina's gelden */
+body {
+    color: white;
+    background-color: #909b6f;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+@media screen and (min-width: 800px){
+    body {
+        color: white;
+        text-align: center;
+        background-color: #909b6f;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    }
+}
